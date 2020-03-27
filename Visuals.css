@@ -1,0 +1,170 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+.b3:hover p {
+  transform: scale(0.66);
+}
+
+.b2:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+
+.b3:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+.b4:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+.b5:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+.b6:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+.b7:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+.b1:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+
+.Welcome {
+  background-color: gray;
+  width: 800px;
+  margin: auto;
+  border: 3px solid green;
+  text-align: center;
+}
+.welcome2 {
+  background-color: dimgray;
+  text-align: center;
+  border: 2px solid green;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.mainpage {
+  border: 3px solid grey;
+  margin: 10px;
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+}
+
+.b1 {
+  float: left;
+  position: relative;
+  background-color: rgba(24, 22, 22, 0.705);
+  width: 200px;
+  text-align: center;
+  border: 2px solid rgb(255, 253, 253);
+  margin-left: 10px;
+  z-index: 999;
+}
+.b2 {
+  float: left;
+  position: relative;
+  background-color: rgba(24, 22, 22, 0.705);
+  width: 200px;
+  text-align: center;
+  border: 2px solid rgb(255, 253, 253);
+  margin-left: 10px;
+  z-index: 999;
+}
+
+.b3 {
+  float: left;
+  position: relative;
+  background-color: rgba(24, 22, 22, 0.705);
+  width: 150px;
+  text-align: center;
+  border: 2px solid rgb(255, 253, 253);
+  margin-left: 10px;
+  z-index: 999;
+}
+.b4 {
+  float: left;
+  position: relative;
+  background-color: rgba(24, 22, 22, 0.705);
+  width: 200px;
+  text-align: center;
+  border: 2px solid rgb(255, 253, 253);
+  margin-left: 10px;
+  z-index: 999;
+}
+.b5 {
+  float: left;
+  position: relative;
+  background-color: rgba(24, 22, 22, 0.705);
+  width: 150px;
+  text-align: center;
+  border: 2px solid rgb(255, 253, 253);
+  margin-left: 10px;
+  z-index: 999;
+}
+.b6 {
+  float: left;
+  position: relative;
+  background-color: rgba(24, 22, 22, 0.705);
+  width: 200px;
+  text-align: center;
+  border: 2px solid rgb(255, 253, 253);
+  margin-left: 10px;
+  z-index: 999;
+}
+.b7 {
+  float: left;
+  position: relative;
+  background-color: rgba(24, 22, 22, 0.705);
+  width: 110px;
+  text-align: center;
+  border: 2px solid rgb(255, 253, 253);
+  margin-left: 10px;
+  z-index: 999;
+}
+.home {
+  margin-left: 10px;
+  margin-right: 1opx;
+}
+
+.games {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.games:hover {
+  transform: scale(1.02);
+  transform-origin: bottom;
+}
+#fps {
+  text-decoration: none;
+  color: white;
+}
+
+#fps:visited {
+  text-decoration: none;
+  color: white;
+}
+#fps:hover {
+  text-decoration: none;
+  color: white;
+}
+#fps:focus {
+  text-decoration: none;
+  color: white;
+}
+
+#fps:active {
+  text-decoration: none;
+  color: white;
+}
